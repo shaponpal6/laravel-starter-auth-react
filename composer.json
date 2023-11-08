@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel-starter-auth-react",
+    "name": "shaponpal6/laravel-starter-auth-react",
     "type": "project",
     "description": "Laravel starter app with Jetstream (Inertia.js, React.js, and Vite.js). Full User Authentication, Roles and Permissions using Spatie Package.",
     "keywords": ["laravel", "framework", "auth", "Roles and Permissions", "Jetstream", "Inertia.js", "React.js", "Vite.js"],
