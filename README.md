@@ -1,6 +1,17 @@
 # laravel-starter
 Laravel starter app with Jetstream (Inertia.js, React.js, and Vite.js). Full User Authentication, Roles and Permissions using Spatie Package.
 
+# Set up the application, run the following command
+- composer install
+- yarn / npm install
+- php artisan migrate --seed
+- php artisan serve
+- yarn dev / npm run dev
+
+# To run the seeder again, run the following command
+- php artisan db:seed
+- php artisan migrate:refresh --seed
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
